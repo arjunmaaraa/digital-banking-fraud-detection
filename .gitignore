@@ -1,0 +1,22 @@
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+.eggs/
+
+# App
+fraud_app.db
+*.log
+.env
+
+# OS
+.DS_Store
+Thumbs.db
